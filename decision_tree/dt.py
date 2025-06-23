@@ -1,7 +1,3 @@
-'''THIS CODE IS MY OWN WORK, IT WAS WRITTEN WITHOUT CONSULTING CODE
-WRITTEN BY OTHER STUDENTS OR LARGE LANGUAGE MODELS SUCH AS CHATGPT.
-Kaiyuan Hou
-'''
 import argparse
 import numpy as np
 import pandas as pd
